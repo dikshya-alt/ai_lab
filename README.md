@@ -1,2 +1,2 @@
-# ai_lab
+# ai_lab assignment
 Simple and Multiple regression
